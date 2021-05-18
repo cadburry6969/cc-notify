@@ -1,6 +1,6 @@
 # Simple Notification
 
-* Colors:- *default, red, green, blue, pink, orange
+* Colors:- default, red, green, blue, pink, orange
 
 Client Side:-
 
