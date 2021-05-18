@@ -2,14 +2,14 @@
 
 * Colors:- *default, red, green, blue, pink, orange
 
-*Client Side:-
+Client Side:-
 
 ```
 TriggerEvent('cc-notify',msg, colors,time)
 eg: TriggerEvent('cc-notify', 'Test', 'default',10000)
 ```
 
-*Server Side:-
+Server Side:-
 
 ```
 TriggerClientEvent('cc-notify', source, msg, colors, time)
